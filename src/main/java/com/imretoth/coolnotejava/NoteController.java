@@ -1,2 +1,7 @@
-package com.imretoth.coolnotejava;public class NoteController {
+package com.imretoth.coolnotejava;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class NoteController {
 }
